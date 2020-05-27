@@ -1,0 +1,18 @@
+{
+  "name": "Amazon-event-bridge-integration-with-zendesk",
+  "version": "1.0.0",
+  "description": "Bi-directional event orchestration with Amazon EventBridge and Zendesk",
+  "main": "app.js",
+  "author": "Ben smith @ Amazon.com, Inc. or its affiliates",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "scripts": {
+    "test": "mocha tests/unit/"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}

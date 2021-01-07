@@ -5,7 +5,7 @@
 ![Zendesk Guide widget](/images/Screenshot1.png "Zendesk Guide widget")
 
 
-# Auth0EventBridge
+# amazon-eventbridge-integration-with-auth0
 
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.
 
